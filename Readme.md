@@ -83,7 +83,7 @@ history | grep -E 'grep|find|awk|sort|chmod' > ~/praktika/proof.txt
 | 6 |                      |
 
 
---
+---
 
 ## формат сдачи
 
